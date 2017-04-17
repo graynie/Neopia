@@ -1,0 +1,147 @@
+{
+	"capitales": [{
+		"nombre": "Cuenca",
+		"provincia": "Azuay",
+		"longitud": -79.00453,
+		"latitud": -2.90055,
+		"gentilicio": "Cuencano/a"
+	}, {
+		"nombre": "Santo Domingo",
+		"provincia": "Santo Domingo de los Tsáchilas",
+		"longitud": -79.171944,
+		"latitud": -0.254167,
+		"gentilicio": "Santodomingueño/a"
+	}, {
+		"nombre": "Machala",
+		"provincia": "El Oro",
+		"longitud": -79.966667,
+		"latitud": -3.266667,
+		"gentilicio": "Machaleño/a"
+	}, {
+		"nombre": "Portoviejo",
+		"provincia": "Manabí",
+		"longitud": -80.454444,
+		"latitud": -1.054444,
+		"gentilicio": "Portovejense"
+	}, {
+		"nombre": "Loja",
+		"provincia": "Loja",
+		"longitud": -79.205,
+		"latitud": -3.990556,
+		"gentilicio": "Lojano/a"
+	}, {
+		"nombre": "Ambato",
+		"provincia": "Tungurahua",
+		"longitud": -78.619722,
+		"latitud": -1.241667,
+		"gentilicio": "Ambateño/a"
+	}, {
+		"nombre": "Esmeraldas",
+		"provincia": "Esmeraldas",
+		"longitud": -79.666667,
+		"latitud": 0.95,
+		"gentilicio": "Esmeraldeño/a"
+	}, {
+		"nombre": "Riobamba",
+		"provincia": "Chimborazo",
+		"longitud": -78.648294,
+		"latitud": -1.674347,
+		"gentilicio": "Riobambeño/a"
+	}, {
+		"nombre": "Ibarra",
+		"provincia": "Imbabura",
+		"longitud": -78.13,
+		"latitud": 0.362778,
+		"gentilicio": "Ibarreño/a"
+	}, {
+		"nombre": "Babahoyo",
+		"provincia": "Los Ríos",
+		"longitud": -79.516667,
+		"latitud": -1.816667,
+		"gentilicio": "Babahoyense"
+	}, {
+		"nombre": "Latacunga",
+		"provincia": "Cotopaxi",
+		"longitud": -78.616667,
+		"latitud": -0.933333,
+		"gentilicio": "Latacungueño/a"
+	}, {
+		"nombre": "Tulcán",
+		"provincia": "Carchi",
+		"longitud": -77.718611,
+		"latitud": 0.811667,
+		"gentilicio": "Tulcaneño/a"
+	}, {
+		"nombre": "Nueva Loja",
+		"provincia": "Sucumbíos",
+		"longitud": -77.150556,
+		"latitud": -0.059444,
+		"gentilicio": "Neolojano/a"
+	}, {
+		"nombre": "Francisco de Orellana",
+		"provincia": "Orellana",
+		"longitud": -76.984167,
+		"latitud": -0.4625,
+		"gentilicio": "Orellanense"
+	}, {
+		"nombre": "Santa Elena",
+		"provincia": "Santa Elena",
+		"longitud": -80.8583,
+		"latitud": -2.2267,
+		"gentilicio": "Santaelenese"
+	}, {
+		"nombre": "Azogues",
+		"provincia": "Cañar",
+		"longitud": -78.833333,
+		"latitud": -2.733333,
+		"gentilicio": "Azogueño/a"
+	}, {
+		"nombre": "Puyo",
+		"provincia": "Pastaza",
+		"longitud": -78.001111,
+		"latitud": -1.066667,
+		"gentilicio": "Puyense"
+	}, {
+		"nombre": "Guaranda",
+		"provincia": "Bolívar",
+		"longitud": -79.003056,
+		"latitud": -1.605556,
+		"gentilicio": "Guarandeño/a"
+	}, {
+		"nombre": "Tena",
+		"provincia": "Napo",
+		"longitud": -77.8159,
+		"latitud": -0.989,
+		"gentilicio": "Tenense"
+	}, {
+		"nombre": "Macas",
+		"provincia": "Morona Santiago",
+		"longitud": -78.116667,
+		"latitud": -2.3,
+		"gentilicio": "Macabeo/Maquense"
+	}, {
+		"nombre": "Zamora",
+		"provincia": "Zamora Chinchipe",
+		"longitud": -78.956667,
+		"latitud": -4.069167,
+		"gentilicio": "Zamorano/a"
+	}, {
+		"nombre": "Puerto Baquerizo Moreno",
+		"provincia": "Galápagos",
+		"longitud": -89.609167,
+		"latitud": -0.9025,
+		"gentilicio": "Galapagueño/Galapaguense"
+	}, {
+		"nombre": "Quito",
+		"provincia": "Pichincha",
+		"longitud": -78.509722,
+		"latitud": -0.218611,
+		"gentilicio": "Quiteño/a"
+	}, {
+		"nombre": "Guayaquil",
+		"provincia": "Guayas",
+		"longitud": -79.883333,
+		"latitud": -2.183333,
+		"gentilicio": "Guayaquileño/a"
+	}]
+}
