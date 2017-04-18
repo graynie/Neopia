@@ -1,67 +1,62 @@
 {
 	"capitales": [{
-		"nombre": "Cuenca",
-		"provincia": "Azuay",
+		"nombre": "Altador",
+		"provincia": "Altador",
 		"longitud": -79.00453,
 		"latitud": -2.90055,
-		"gentilicio": "Cuencano/a"
 	}, {
-		"nombre": "Santo Domingo",
-		"provincia": "Santo Domingo de los Tsáchilas",
+		"nombre": "Brigthvale",
+		"provincia": "Brigthvale",
 		"longitud": -79.171944,
 		"latitud": -0.254167,
-		"gentilicio": "Santodomingueño/a"
 	}, {
-		"nombre": "Machala",
-		"provincia": "El Oro",
+		"nombre": "Darigan Citadel"",
+		"provincia": "Darigan Citadel"",
 		"longitud": -79.966667,
 		"latitud": -3.266667,
-		"gentilicio": "Machaleño/a"
 	}, {
-		"nombre": "Portoviejo",
-		"provincia": "Manabí",
+		"nombre": "Faerieland",
+		"provincia": "Faerieland",
 		"longitud": -80.454444,
 		"latitud": -1.054444,
-		"gentilicio": "Portovejense"
 	}, {
-		"nombre": "Loja",
-		"provincia": "Loja",
+		"nombre": "Haunted Woods",
+		"provincia": "Haunted Woods",
 		"longitud": -79.205,
 		"latitud": -3.990556,
-		"gentilicio": "Lojano/a"
 	}, {
-		"nombre": "Ambato",
-		"provincia": "Tungurahua",
+		"nombre": "Kiko Lake",
+		"provincia": "Kiko Lake",
 		"longitud": -78.619722,
 		"latitud": -1.241667,
 		"gentilicio": "Ambateño/a"
 	}, {
-		"nombre": "Esmeraldas",
-		"provincia": "Esmeraldas",
+		"nombre": "Krawk Island",
+		"provincia": "Krawk Island",
 		"longitud": -79.666667,
 		"latitud": 0.95,
 		"gentilicio": "Esmeraldeño/a"
 	}, {
-		"nombre": "Riobamba",
-		"provincia": "Chimborazo",
+		"nombre": "Kreludor",
+		"provincia": "Kreludor",
 		"longitud": -78.648294,
 		"latitud": -1.674347,
 		"gentilicio": "Riobambeño/a"
 	}, {
-		"nombre": "Ibarra",
-		"provincia": "Imbabura",
+		"nombre": "Lost Desert",
+		"provincia": "Lost Desert",
 		"longitud": -78.13,
 		"latitud": 0.362778,
 		"gentilicio": "Ibarreño/a"
 	}, {
-		"nombre": "Babahoyo",
-		"provincia": "Los Ríos",
+		"nombre": "Maraqua",
+		"provincia": "Maraqua",
 		"longitud": -79.516667,
 		"latitud": -1.816667,
 		"gentilicio": "Babahoyense"
 	}, {
-		"nombre": "Latacunga",
-		"provincia": "Cotopaxi",
+		"nombre": "Meridell",
+		"provincia": "Meridell",
 		"longitud": -78.616667,
 		"latitud": -0.933333,
 		"gentilicio": "Latacungueño/a"
@@ -72,44 +67,44 @@
 		"latitud": 0.811667,
 		"gentilicio": "Tulcaneño/a"
 	}, {
-		"nombre": "Nueva Loja",
-		"provincia": "Sucumbíos",
+		"nombre": "Moltara",
+		"provincia": "Moltara",
 		"longitud": -77.150556,
 		"latitud": -0.059444,
 		"gentilicio": "Neolojano/a"
 	}, {
-		"nombre": "Francisco de Orellana",
-		"provincia": "Orellana",
+		"nombre": "Mystery Island",
+		"provincia": "Mystery Island",
 		"longitud": -76.984167,
 		"latitud": -0.4625,
 		"gentilicio": "Orellanense"
 	}, {
-		"nombre": "Santa Elena",
-		"provincia": "Santa Elena",
+		"nombre": "Roo Island",
+		"provincia": "Roo Island",
 		"longitud": -80.8583,
 		"latitud": -2.2267,
 		"gentilicio": "Santaelenese"
 	}, {
-		"nombre": "Azogues",
-		"provincia": "Cañar",
+		"nombre": "Shenkuu",
+		"provincia": "Shenkuu",
 		"longitud": -78.833333,
 		"latitud": -2.733333,
 		"gentilicio": "Azogueño/a"
 	}, {
-		"nombre": "Puyo",
-		"provincia": "Pastaza",
+		"nombre": "Terror Mountain",
+		"provincia": "Terror Mountain",
 		"longitud": -78.001111,
 		"latitud": -1.066667,
 		"gentilicio": "Puyense"
 	}, {
-		"nombre": "Guaranda",
-		"provincia": "Bolívar",
+		"nombre": "Tyrannia",
+		"provincia": "Tyrannia",
 		"longitud": -79.003056,
 		"latitud": -1.605556,
 		"gentilicio": "Guarandeño/a"
 	}, {
-		"nombre": "Tena",
-		"provincia": "Napo",
+		"nombre": "Virtupets",
+		"provincia": "Virtupets Space Station",
 		"longitud": -77.8159,
 		"latitud": -0.989,
 		"gentilicio": "Tenense"
@@ -120,8 +115,8 @@
 		"latitud": -2.3,
 		"gentilicio": "Macabeo/Maquense"
 	}, {
-		"nombre": "Zamora",
-		"provincia": "Zamora Chinchipe",
+		"nombre": "Mapa Del Mundo De Neopia",
+		"provincia": "Neopets.com",
 		"longitud": -78.956667,
 		"latitud": -4.069167,
 		"gentilicio": "Zamorano/a"
@@ -132,8 +127,8 @@
 		"latitud": -0.9025,
 		"gentilicio": "Galapagueño/Galapaguense"
 	}, {
-		"nombre": "Quito",
-		"provincia": "Pichincha",
+		"nombre": "Compass",
+		"provincia": "Compass",
 		"longitud": -78.509722,
 		"latitud": -0.218611,
 		"gentilicio": "Quiteño/a"
